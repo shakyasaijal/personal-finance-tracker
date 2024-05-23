@@ -1,0 +1,12 @@
+C:\Users\985444\Desktop\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\PersonalFinanceTracker.csproj.AssemblyReference.cache
+C:\Users\985444\Desktop\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\PersonalFinanceTracker.PersonalFinanceTracker.resources
+C:\Users\985444\Desktop\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\PersonalFinanceTracker.Properties.Resources.resources
+C:\Users\985444\Desktop\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\PersonalFinanceTracker.csproj.GenerateResource.cache
+C:\Users\985444\Desktop\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\PersonalFinanceTracker.csproj.CoreCompileInputs.cache
+C:\Users\985444\Desktop\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\PersonalFinanceTracker.exe.config
+C:\Users\985444\Desktop\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\PersonalFinanceTracker.exe
+C:\Users\985444\Desktop\PersonalFinanceTracker\PersonalFinanceTracker\bin\Debug\PersonalFinanceTracker.pdb
+C:\Users\985444\Desktop\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\PersonalFinanceTracker.exe
+C:\Users\985444\Desktop\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\PersonalFinanceTracker.pdb
+C:\Users\985444\Desktop\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\PersonalFinanceTracker.AddTransactionForm.resources
+C:\Users\985444\Desktop\PersonalFinanceTracker\PersonalFinanceTracker\obj\Debug\PersonalFinanceTracker.EditTransactionForm.resources

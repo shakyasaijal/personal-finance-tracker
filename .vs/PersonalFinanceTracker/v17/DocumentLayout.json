@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\personalfinancetracker\\personalfinancetracker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|solutionrelative:personalfinancetracker\\personalfinancetracker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\personalfinancetracker\\personalfinancetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|solutionrelative:personalfinancetracker\\personalfinancetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\personalfinancetracker\\personalfinancetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|solutionrelative:personalfinancetracker\\personalfinancetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\personalfinancetracker\\edittransactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|solutionrelative:personalfinancetracker\\edittransactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\personalfinancetracker\\edittransactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|solutionrelative:personalfinancetracker\\edittransactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|c:\\users\\985444\\desktop\\personalfinancetracker\\personalfinancetracker\\edittransactionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|solutionrelative:personalfinancetracker\\edittransactionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\personalfinancetracker\\addtransactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|solutionrelative:personalfinancetracker\\addtransactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\personalfinancetracker\\addtransactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|solutionrelative:personalfinancetracker\\addtransactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\personalfinancetracker\\addtransactionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|solutionrelative:personalfinancetracker\\addtransactionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\personalfinancetracker\\addtransactionform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|solutionrelative:personalfinancetracker\\addtransactionform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\personalfinancetracker\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|solutionrelative:personalfinancetracker\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\personalfinancetracker\\personalfinancetracker.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{DB2FE262-FB69-4C99-AE51-B5218D695DCC}|PersonalFinanceTracker\\PersonalFinanceTracker.csproj|solutionrelative:personalfinancetracker\\personalfinancetracker.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonalFinanceTracker.cs",
+              "DocumentMoniker": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\PersonalFinanceTracker.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceTracker\\PersonalFinanceTracker.cs",
+              "ToolTip": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\PersonalFinanceTracker.cs",
+              "RelativeToolTip": "PersonalFinanceTracker\\PersonalFinanceTracker.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAASwDQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:18:22.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddTransactionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\AddTransactionForm.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceTracker\\AddTransactionForm.cs",
+              "ToolTip": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\AddTransactionForm.cs [Design]",
+              "RelativeToolTip": "PersonalFinanceTracker\\AddTransactionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:14:49.229Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditTransactionForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\EditTransactionForm.Designer.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceTracker\\EditTransactionForm.Designer.cs",
+              "ToolTip": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\EditTransactionForm.Designer.cs",
+              "RelativeToolTip": "PersonalFinanceTracker\\EditTransactionForm.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAApwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:43:05.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddTransactionForm.cs",
+              "DocumentMoniker": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\AddTransactionForm.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceTracker\\AddTransactionForm.cs",
+              "ToolTip": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\AddTransactionForm.cs",
+              "RelativeToolTip": "PersonalFinanceTracker\\AddTransactionForm.cs",
+              "ViewState": "AQIAACgAAAAAz8zMzEwRwDkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:16:49.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonalFinanceTracker.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\PersonalFinanceTracker.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceTracker\\PersonalFinanceTracker.cs",
+              "ToolTip": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\PersonalFinanceTracker.cs [Design]",
+              "RelativeToolTip": "PersonalFinanceTracker\\PersonalFinanceTracker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:17:22.012Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditTransactionForm.cs",
+              "DocumentMoniker": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\EditTransactionForm.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceTracker\\EditTransactionForm.cs",
+              "ToolTip": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\EditTransactionForm.cs",
+              "RelativeToolTip": "PersonalFinanceTracker\\EditTransactionForm.cs",
+              "ViewState": "AQIAABUAAAAAcGZmZmbuvysAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:42:34.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonalFinanceTracker.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\PersonalFinanceTracker.Designer.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceTracker\\PersonalFinanceTracker.Designer.cs",
+              "ToolTip": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\PersonalFinanceTracker.Designer.cs",
+              "RelativeToolTip": "PersonalFinanceTracker\\PersonalFinanceTracker.Designer.cs",
+              "ViewState": "AQIAAPwAAAAAbmZmZmYCwKcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:18:05.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditTransactionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\EditTransactionForm.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceTracker\\EditTransactionForm.cs",
+              "ToolTip": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\EditTransactionForm.cs [Design]",
+              "RelativeToolTip": "PersonalFinanceTracker\\EditTransactionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:41:09.874Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddTransactionForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\AddTransactionForm.Designer.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceTracker\\AddTransactionForm.Designer.cs",
+              "ToolTip": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\AddTransactionForm.Designer.cs",
+              "RelativeToolTip": "PersonalFinanceTracker\\AddTransactionForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:14:40.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddTransactionForm.resx",
+              "DocumentMoniker": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\AddTransactionForm.resx",
+              "RelativeDocumentMoniker": "PersonalFinanceTracker\\AddTransactionForm.resx",
+              "ToolTip": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\AddTransactionForm.resx",
+              "RelativeToolTip": "PersonalFinanceTracker\\AddTransactionForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-22T01:16:00.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\Transaction.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceTracker\\Transaction.cs",
+              "ToolTip": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\Transaction.cs",
+              "RelativeToolTip": "PersonalFinanceTracker\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:14:55.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonalFinanceTracker.resx",
+              "DocumentMoniker": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\PersonalFinanceTracker.resx",
+              "RelativeDocumentMoniker": "PersonalFinanceTracker\\PersonalFinanceTracker.resx",
+              "ToolTip": "C:\\Users\\985444\\Desktop\\PersonalFinanceTracker\\PersonalFinanceTracker\\PersonalFinanceTracker.resx",
+              "RelativeToolTip": "PersonalFinanceTracker\\PersonalFinanceTracker.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-22T01:16:06.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
